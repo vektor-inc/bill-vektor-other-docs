@@ -1,6 +1,6 @@
-=== Bill Vektor Receipt ===
+=== Bill Vektor Other Docs ===
 Contributors: (this should be a list of wordpress.org userid's)
-Donate link: https://example.com/
+Donate link: https://billvektor.com
 Tags: comments, spam
 Requires at least: 4.5
 Tested up to: 4.9.8
@@ -71,16 +71,6 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 * A change since the previous version.
 * Another change.
 
-= 0.5 =
-* List versions from most recent at top to oldest at bottom.
-
-== Upgrade Notice ==
-
-= 1.0 =
-Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
-
-= 0.5 =
-This version fixes a security related bug.  Upgrade immediately.
 
 == Arbitrary section ==
 
