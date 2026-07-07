@@ -4,7 +4,7 @@ Donate link: https://billvektor.com
 Tags: comments, spam
 Requires at least: 4.5
 Tested up to: 4.9.8
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,6 +67,7 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 
 == Changelog ==
 
+= 1.1.3 =
 * [ 不具合修正 ] その他の書類の編集画面「この書類を複製」ボタンのリンクに nonce が付与されておらず、クリック時に「リンクの有効期限切れです」エラーになる不具合を修正
 
 = 1.0 =

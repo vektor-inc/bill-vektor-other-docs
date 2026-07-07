@@ -7,7 +7,7 @@
  * Author URI:      https://billvektor.com/
  * Text Domain:     bill-vektor-others
  * Domain Path:     /languages
- * Version:         1.1.2
+ * Version:         1.1.3
  *
  * @package         Bill_Vektor_Other_Docs
  */
