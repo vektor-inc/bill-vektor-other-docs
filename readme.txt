@@ -67,6 +67,8 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 
 == Changelog ==
 
+* [ 不具合修正 ] その他の書類の編集画面「この書類を複製」ボタンのリンクに nonce が付与されておらず、クリック時に「リンクの有効期限切れです」エラーになる不具合を修正
+
 = 1.0 =
 * A change since the previous version.
 * Another change.
